@@ -44,7 +44,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <h1>Davide Porcu<br />Consulente Digital Marketing Cagliari</h1>
+            <h1>Davide Porcu<br />Consulente di Digital Marketing a Cagliari</h1>
           </div>
           <p className="tagline">Esperto di Digital Marketing, SEO & Google Ads Specialist | Cagliari</p>
           <div className="cta-buttons">
